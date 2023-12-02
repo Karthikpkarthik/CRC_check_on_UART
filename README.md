@@ -30,11 +30,7 @@ This repository contains an AVR C code implementation for CRC16 checking on UART
 - **string.h:** Standard C string manipulation functions.
 - **stdio.h:** Standard input/output functions.
 
-## License
-
-
-
-Feel free to contribute or open issues to improve the functionality or provide feedback.
+.
 
 ---
 
