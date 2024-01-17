@@ -2,6 +2,7 @@
 
 ---
 
+
 # CRC16 Check on UART for ATmega328P
 
 This repository contains an AVR C code implementation for CRC16 checking on UART communication using an ATmega328P microcontroller. The code is designed to interact with a Python script over UART, validate CRC16 checksums, store valid data in EEPROM, and transmit stored data back to the PC.
